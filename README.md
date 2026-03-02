@@ -87,7 +87,7 @@ Results Display
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/intelligent-document-processing.git
+git clone https://github.com/imdeekshita/intelligent-document-processing.git
 ```
 
 Go to project directory:
